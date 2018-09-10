@@ -1,0 +1,11 @@
+[PreviousGenFiles]
+HeaderPath=E:/Sina/Naminic1/Naminic/Evaluation Product/new learning/stm32f107/15-RTC-SET-UART/Inc
+SourcePath=E:/Sina/Naminic1/Naminic/Evaluation Product/new learning/stm32f107/15-RTC-SET-UART/Src
+SourceFiles=stm32f1xx_it.c;stm32f1xx_hal_msp.c;main.c;
+
+[PreviousLibFiles]
+
+[PreviousUsedKeilFiles]
+SourceFiles=..\Src\main.c;..\Src\stm32f1xx_it.c;..\Src\stm32f1xx_hal_msp.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rtc.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rtc_ex.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c;../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c;../\Src/system_stm32f1xx.c;../Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.c;E:/Sina/Naminic1/Naminic/Evaluation Product/new learning/stm32f107/15-RTC-SET-UART//MDK-ARM/startup_stm32f107xc.s;
+HeaderPath=..\Drivers\STM32F1xx_HAL_Driver\Inc;..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy;..\Drivers\CMSIS\Device\ST\STM32F1xx\Include;..\Drivers\CMSIS\Include;..\Inc;
+
